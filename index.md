@@ -1,9 +1,2 @@
-<!DOCTYPE html>
-<head>
-  wiki
-</head>
-<body>
-  HelloWorld init
-
-  this sucks now but youll see
-</body>
+# This is the main page of this community
+## first paragraph
